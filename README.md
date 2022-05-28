@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Reis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinicius-Reis-da-Silva&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Junior Web Developer
 
 - 🔭 I currently study at the Federal University of Pará
 
@@ -45,7 +45,7 @@
 <a href="https://codepen.io/Vinicius-Reis-da-Silva" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vinicius_Reis-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
+<a href="https://twitter.com/viniciusreis080" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vinicius_Reis-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
@@ -59,7 +59,7 @@
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=viniciusreis080&layout=wide&show_reply=off&show_retweet=off" />
 
 
 <!--
