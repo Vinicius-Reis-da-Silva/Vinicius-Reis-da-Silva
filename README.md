@@ -1,4 +1,4 @@
-<img align="right" height="430em" src="https://github.com/Vinicius-Reis-da-Silva.png"/>
+<img align="right" height="240em" src="https://github.com/Vinicius-Reis-da-Silva.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Reis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinicius-Reis-da-Silva&color=yellow" alt="Profile views" /> </p>
 
